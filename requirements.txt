@@ -1,4 +1,2 @@
-aiogram>=3.20,<4
+python-telegram-bot>=21,<22
 telethon>=1.39,<2
-aiohttp>=3.10,<4
-beautifulsoup4>=4.12,<5
