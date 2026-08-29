@@ -1,4 +1,0 @@
-aiogram>=3.0,<4
-telethon>=1.30,<2
-aiohttp>=3.9,<4
-beautifulsoup4>=4.12,<5
